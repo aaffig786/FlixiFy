@@ -1,73 +1,81 @@
-[
-  {
-    "name": "Azaad",
-    "list": "Azaad (2025)",
-    "year": "2025",
-    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Azaad(2025)/Azaad(2025).jpg",
-    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Azaad(2025)/main.m3u8"
+{
+  "header": {
+    "title": "🎬 Weekly Movies & Web Series",
+    "heading": "🔥 Enjoy the latest movies & web series, updated every Saturday night!",
+    "features": "Features",
+    "details": "✅ 10 new movies/web series every week\n✅ HD Streaming\n✅ Fast servers, no buffering\n✅ Watch anytime, anywhere!",
+    "release": "🆕 This Week's Releases"
   },
-  {
-    "name": "Baby John",
-    "list": "Baby John (2024)",
-    "year": "2024",
-    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/BabyJohn(2024)/BabyJohn(2024).jpg",
-    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/BabyJohn(2024)/main.m3u8"
-  },
-  {
-    "name": "Challe Yaar Coachella",
-    "list": "Challe Yaar Coachella (2025)",
-    "year": "2025",
-    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/ChalleYaarCoachella(2025)/ChalleYaarCoachella(2025).jpg",
-    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/ChalleYaarCoachella(2025)/main.m3u8"
-  },
-  {
-    "name": "Ground Zero",
-    "list": "Ground Zero (2025)",
-    "year": "2025",
-    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/GroundZero(2025)/GroundZero(2025).jpg",
-    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/GroundZero(2025)/main.m3u8"
-  },
-  {
-    "name": "Majhail",
-    "list": "Majhail (2025)",
-    "year": "2025",
-    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Majhail(2025)/Majhail(2025).jpg",
-    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Majhail(2025)/main.m3u8"
-  },
-  {
-    "name": "Last Bullet",
-    "list": "Last Bullet (2025)",
-    "year": "2025",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/LastBullet(2025)/LastBullet(2025).webp",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/LastBullet(2025)/main.m3u8"
-  },
-  {
-    "name": "Jewel Thief - The Heist Begins",
-    "list": "Jewel Thief - The Heist Begins (2025)",
-    "year": "2025",
-    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/JewelThiefTheHeistBegins(2025)/JewelThiefTheHeistBegins(2025).jpg",
-    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/JewelThiefTheHeistBegins(2025)/main.m3u8"
-  },
-  {
-    "name": "Marco",
-    "list": "Marco (2024)",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Marco(2024)/Marco(2024).jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Marco(2024)/main.m3u8"
-  },
-  {
-    "name": "The Diplomat",
-    "list": "The Diplomat (2025)",
-    "year": "2025",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheDiplomat(2025)/TheDiplomat(2025).jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheDiplomat(2025)/main.m3u8"
-  },
-  {
-    "name": "Pushpa 2 The Rule",
-    "list": "Pushpa 2 The Rule (2024)",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Pushpa2TheRule(2024)/Pushpa2TheRule(2024).jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Pushpa2TheRule(2024)/main.m3u8"
-  }
-  
-]
+  "list": [
+    {
+      "name": "Azaad",
+      "list": "Azaad (2025)",
+      "year": "2025",
+      "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Azaad(2025)/Azaad(2025).jpg",
+      "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Azaad(2025)/main.m3u8"
+    },
+    {
+      "name": "Baby John",
+      "list": "Baby John (2024)",
+      "year": "2024",
+      "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/BabyJohn(2024)/BabyJohn(2024).jpg",
+      "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/BabyJohn(2024)/main.m3u8"
+    },
+    {
+      "name": "Challe Yaar Coachella",
+      "list": "Challe Yaar Coachella (2025)",
+      "year": "2025",
+      "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/ChalleYaarCoachella(2025)/ChalleYaarCoachella(2025).jpg",
+      "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/ChalleYaarCoachella(2025)/main.m3u8"
+    },
+    {
+      "name": "Ground Zero",
+      "list": "Ground Zero (2025)",
+      "year": "2025",
+      "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/GroundZero(2025)/GroundZero(2025).jpg",
+      "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/GroundZero(2025)/main.m3u8"
+    },
+    {
+      "name": "Majhail",
+      "list": "Majhail (2025)",
+      "year": "2025",
+      "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Majhail(2025)/Majhail(2025).jpg",
+      "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/Majhail(2025)/main.m3u8"
+    },
+    {
+      "name": "Last Bullet",
+      "list": "Last Bullet (2025)",
+      "year": "2025",
+      "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/LastBullet(2025)/LastBullet(2025).webp",
+      "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/LastBullet(2025)/main.m3u8"
+    },
+    {
+      "name": "Jewel Thief - The Heist Begins",
+      "list": "Jewel Thief - The Heist Begins (2025)",
+      "year": "2025",
+      "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/JewelThiefTheHeistBegins(2025)/JewelThiefTheHeistBegins(2025).jpg",
+      "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/JewelThiefTheHeistBegins(2025)/main.m3u8"
+    },
+    {
+      "name": "Marco",
+      "list": "Marco (2024)",
+      "year": "2024",
+      "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Marco(2024)/Marco(2024).jpg",
+      "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Marco(2024)/main.m3u8"
+    },
+    {
+      "name": "The Diplomat",
+      "list": "The Diplomat (2025)",
+      "year": "2025",
+      "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheDiplomat(2025)/TheDiplomat(2025).jpg",
+      "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheDiplomat(2025)/main.m3u8"
+    },
+    {
+      "name": "Pushpa 2 The Rule",
+      "list": "Pushpa 2 The Rule (2024)",
+      "year": "2024",
+      "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Pushpa2TheRule(2024)/Pushpa2TheRule(2024).jpg",
+      "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Pushpa2TheRule(2024)/main.m3u8"
+    }
+  ]
+}
